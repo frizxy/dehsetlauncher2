@@ -1,0 +1,42 @@
+{
+    "LauncherVersion": "2.0",
+    "LauncherUrl": "https://github.com/KULLANICI_ADIN/DehsetLauncher/releases/download/v2.0/DehsetLauncher.exe",
+    "Mods": [
+        {
+            "FileName": "KotlinLangForge-2.19.0-k2.4.21-3.0+neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/1vrSzlao/versions/wLbnmlH6/KotlinLangForge-2.19.0-k2.4.21-3.0%2Bneoforge.jar"
+        },
+        {
+            "FileName": "architectury-13.0.12-neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xGfBrBzj/architectury-13.0.12-neoforge.jar"
+        },
+        {
+            "FileName": "cloth-config-15.0.140-neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+        },
+        {
+            "FileName": "emf_compat_core_neoforge_1.21.1_2.4.0.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/upzqIWB0/emf_compat_core_neoforge_1.21.1_2.4.0.jar"
+        },
+        {
+            "FileName": "entity_model_features-3.3.12-1.21-neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/197m3VoU/entity_model_features-3.3.12-1.21-neoforge.jar"
+        },
+        {
+            "FileName": "entity_texture_features-7.2.7-1.21-neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/1DVPB3a4/entity_texture_features-7.2.7-1.21-neoforge.jar"
+        },
+        {
+            "FileName": "moreculling-neoforge-1.21.1-1.0.11.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/51shyZVL/versions/ucyxnpWe/moreculling-neoforge-1.21.1-1.0.11.jar"
+        },
+        {
+            "FileName": "veinminer-client-neoforge-2.14.0+1.21.1.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/dxa0Bm8m/versions/eyiRGy7h/veinminer-client-neoforge-2.14.0%2B1.21.1.jar"
+        },
+        {
+            "FileName": "veinminer-neoforge-2.14.0+1.21.1.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/OhduvhIc/versions/KXXinkMl/veinminer-neoforge-2.14.0%2B1.21.1.jar"
+        }
+    ]
+}
