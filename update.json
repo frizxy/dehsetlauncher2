@@ -1,7 +1,7 @@
 {
     "LauncherVersion": "2.0",
     "ServerIp":"192.168.0.1",
-    "LauncherUrl_Windows":"",
+    "LauncherUrl_Windows":"https://github.com/frizxy/dehsetlaunchermods/releases/download/5/DehsetLauncher.exe",
     "LauncherUrl_Linux":"",
     "LauncherUrl_MacOS":"",
     "Mods": [
