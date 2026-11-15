@@ -1,6 +1,9 @@
 {
     "LauncherVersion": "2.0",
-    "LauncherUrl": "https://github.com/KULLANICI_ADIN/DehsetLauncher/releases/download/v2.0/DehsetLauncher.exe",
+    "ServerIp":"192.168.0.1",
+    "LauncherUrl_Windows":"",
+    "LauncherUrl_Linux":"",
+    "LauncherUrl_MacOS":"",
     "Mods": [
         {
             "FileName": "KotlinLangForge-2.19.0-k2.4.21-3.0+neoforge.jar",
