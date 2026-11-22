@@ -1,6 +1,6 @@
 {
-    "LauncherVersion": "2.0",
-    "LauncherUrl": "",
+    "LauncherVersion": "2.0.1",
+    "LauncherUrl": "https://github.com/frizxy/dehsetlaunchermods/releases/download/5/DehsetLauncher.exe",
     "Mods": [
         {
             "FileName": "2032-world-height-1.1.jar",
