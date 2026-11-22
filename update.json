@@ -1,11 +1,15 @@
 {
-    "LauncherVersion": "2.0.0.3",
+    "LauncherVersion": "2.0.0.4",
     "ServerIp":"192.168.194.12",
     "LauncherUrl_Windows":"https://github.com/frizxy/dehsetlaunchermods/releases/download/5/DehsetLauncher.exe",
     "LauncherUrl_Linux":"",
     "LauncherUrl_MacOS":"",
     "LauncherUrl": "",
     "Mods": [
+        {
+        "FileName":"GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+        "DownloadUrl": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+        },
         {
             "FileName": "2032-world-height-1.1.jar",
             "DownloadUrl": "https://cdn.modrinth.com/data/JTNe4RSx/versions/4isbwBRE/2032-world-height-1.1.jar"
