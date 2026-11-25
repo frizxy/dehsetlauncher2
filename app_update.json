@@ -1,0 +1,11 @@
+{
+  "LauncherVersion": "1.0.2",
+  "UpdaterVersion": "2.0.0",
+  "ServerIp": "192.168.192.100",
+  "LauncherUrl_Windows": "https://github.com/.../DehsetLauncher.exe",
+  "LauncherUrl_Mac": "https://github.com/.../DehsetLauncher_Mac",
+  "LauncherUrl_Linux": "https://github.com/.../DehsetLauncher_Linux",
+  "UpdaterUrl_Windows": "https://github.com/.../DehsetUpdater.exe",
+  "UpdaterUrl_Mac": "https://github.com/.../DehsetUpdater_Mac",
+  "UpdaterUrl_Linux": "https://github.com/.../DehsetUpdater_Linux"
+}

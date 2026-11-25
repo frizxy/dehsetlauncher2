@@ -1,0 +1,17 @@
+{
+  "PackVersion": "1.0.5",
+  "Files": [
+    {
+      "RelativePath": "mods/jei-1.21.1.jar",
+      "DownloadUrl": "https://cdn.modrinth.com/...",
+      "Sha1": "6871c5e3c20899ca0a48261efbda6d3f7166eea4",
+      "UpdateMode": "replace"
+    },
+    {
+      "RelativePath": "options.txt",
+      "DownloadUrl": "https://raw.githubusercontent.com/.../options.txt",
+      "Sha1": "f9e8d7c6...",
+      "UpdateMode": "merge_options"
+    }
+  ]
+}
