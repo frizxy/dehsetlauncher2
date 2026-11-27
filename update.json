@@ -1,5 +1,5 @@
 {
-    "LauncherVersion": "2.1.3",
+    "LauncherVersion": "2.1.6",
     "ServerIp": "192.168.194.12",
     "LauncherUrl_Windows": "https://github.com/frizxy/dehsetlaunchermods/releases/download/2.1.3/DehsetLauncher.exe",
     "LauncherUrl_Linux": "https://github.com/frizxy/dehsetlaunchermods/releases/download/2.1.1/DehsetLauncher",
@@ -45,6 +45,10 @@
         {
             "FileName": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
             "DownloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+        },
+        {
+            "FileName": "DoggyTalentsNext-1.21.1-1.19.2.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/oXgmplvv/versions/BZP3FCDc/DoggyTalentsNext-1.21.1-1.19.2.jar"
         },
         {
             "FileName": "EggDelight-v1.2-1.21.1.jar",
@@ -255,6 +259,10 @@
             "DownloadUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar"
         },
         {
+            "FileName": "legendary_monsters-2.2.4 MC 1.21.1.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/9d9Bkqva/versions/zkH9rSlF/legendary_monsters-2.2.4%20MC%201.21.1.jar"
+        },
+        {
             "FileName": "lendersdelight-1.21.1-1.0.10b.jar",
             "DownloadUrl": "https://cdn.modrinth.com/data/a48R8AGk/versions/cl5zVy2S/lendersdelight-1.21.1-1.0.10b.jar"
         },
@@ -331,6 +339,10 @@
             "DownloadUrl": "https://cdn.modrinth.com/data/fgmhI8kH/versions/hJfyJvWt/%5Bneoforge%5Dctov-1.21.1-3.6.4.jar"
         },
         {
+            "FileName": "nomadictents-21.1.0.jar",
+            "DownloadUrl": "https://edge.forgecdn.net/files/7401/669/nomadictents-21.1.0.jar"
+        },
+        {
             "FileName": "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
             "DownloadUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/wbdHEItB/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar"
         },
@@ -405,6 +417,10 @@
         {
             "FileName": "waystones-neoforge-1.21.1-21.1.46.jar",
             "DownloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/6Z6MQ6os/waystones-neoforge-1.21.1-21.1.46.jar"
+        },
+        {
+            "FileName": "weaponsexpanded_1.21.1_1.9.3_neoforge.jar",
+            "DownloadUrl": "https://cdn.modrinth.com/data/8pBLL0kb/versions/fV4VGLso/weaponsexpanded_1.21.1_1.9.3_neoforge.jar"
         }
     ]
 }
